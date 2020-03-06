@@ -1,0 +1,1 @@
+This is going to be a website that will teach people the viruses/Malware thats out there. Also have to defend yourself and make your internet more secure. It will mostly be tips that can help people stay secure in different ways. These tips will be updated time to time depending on what you want to know. It's a simple website of tips.
